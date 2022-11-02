@@ -4,7 +4,7 @@
   padding: 0;
   margin: 0 auto;
   box-sizing: border-box;
-  max-width: 2000px;
+  
 }
 html{
   scroll-behavior: smooth;
@@ -12,7 +12,8 @@ html{
 
 body{
   background: #FFFFFF;  
-  height: 1971px; 
+  height: 1971px;
+  max-width: 2000px;
  
 }
 .header {
